@@ -13,6 +13,7 @@ public:
 
 int main(){
 
+
   
   int vertices,weight; 
   string label; 
